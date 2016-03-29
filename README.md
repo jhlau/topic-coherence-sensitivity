@@ -4,13 +4,13 @@ to Topic Cardinality"
 Running the System
 ==================
 * The code depends on jhlau/topic_interpretability, so check out the repository: https://github.com/jhlau/topic_interpretability
-* Use topic_interpretability/ComputeWordCount.py in to collect word co-occurrence statistics between topic words
-* For word intrusion:
- * Generate SVM features based on word count features
- * Train an SVM rank model to predict intruder words
-* For NPMI:
- * Compute topic coherence using word count features
-* Aggregate results over different cardinalities
+* Use **run_wordcount.sh** to collect word co-occurrence statistics between topic words
+* If doing word intrusion, use **run_wi.sh**; the script will:
+ * generate SVM features based on word count features
+ * train an SVM rank model to predict intruder words
+* If doing NPMI, use **run-npmi.sh**; the script will:
+ * compute topic coherence using word count features
+* Both scripts will aggregate coherence scores over different cardinalities and print them at the end
 
 Scripts
 =======
