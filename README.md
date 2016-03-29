@@ -4,13 +4,14 @@ to Topic Cardinality"
 Running the System
 ==================
 * The code depends on jhlau/topic_interpretability, so check out the repository: https://github.com/jhlau/topic_interpretability
-* Use **run_wordcount.sh** to collect word co-occurrence statistics between topic words
-* If doing word intrusion, use **run_wi.sh**; the script will:
+* Use **run-wordcount.sh** to collect word co-occurrence statistics between topic words
+* If doing word intrusion, use **run-wi.sh**; the script will:
  * generate SVM features based on word count features
  * train an SVM rank model to predict intruder words
 * If doing NPMI, use **run-npmi.sh**; the script will:
  * compute topic coherence using word count features
 * Both scripts will aggregate coherence scores over different cardinalities and print them at the end
+* Note: an example toy dataset is given in example_data. To test, execute **run-wordcount.sh** followed by **run-[npmi/wi].sh**
 
 Scripts
 =======
