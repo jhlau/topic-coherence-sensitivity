@@ -15,7 +15,7 @@ Running the System
 
 Scripts
 =======
-* run_wordcount.sh: runs ComputeWordCount.py to collect word statistics
+* run_wordcount.sh: runs topic_interpretability/ComputeWordCount.py to collect word statistics
 * run_wi.sh: computes topic coherence using word intrusion
 * run_npmi.sh: computes topic coherence using NPMI
 
