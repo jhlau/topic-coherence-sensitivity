@@ -1,4 +1,4 @@
-This repository contains code and dataset described in "The Sensitivity of Topic Coherence Evaluation
+This repository contains code and dataset described in the publication "The Sensitivity of Topic Coherence Evaluation
 to Topic Cardinality"
 
 Running the System
