@@ -29,6 +29,10 @@ Description of columns:
 * topic: top-20 words of the topic
 * top-N: top-N average rating (e.g. top-5 means only the top 5 of the 20 words are presented when collecting the rating)
 
+Processed Corpus (News and Wiki)
+================================
+* https://ibm.box.com/s/b8iawg3dmq7krqa5ubmbmojwbl1ag3lh
+
 Publication
 -----------
 * Jey Han Lau and Timothy Baldwin. The Sensitivity of Topic Coherence Evaluation to Topic Cardinality. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL HLT 2016), San Diego, California, to appear.
