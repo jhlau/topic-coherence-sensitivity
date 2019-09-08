@@ -31,7 +31,7 @@ Description of columns:
 
 Processed Corpus (News and Wiki)
 ================================
-* https://ibm.box.com/s/b8iawg3dmq7krqa5ubmbmojwbl1ag3lh
+* https://ibm.box.com/s/jmiroqcucg265nhucv6aj0xa4y0tcagp
 
 Publication
 -----------
