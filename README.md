@@ -31,7 +31,7 @@ Description of columns:
 
 Processed Corpus (News and Wiki)
 ================================
-* https://unimelbcloud-my.sharepoint.com/:u:/g/personal/jeyhan_lau_unimelb_edu_au/EU58mHo45BFPimOjMJocX3MBudPOufAcR5GK8KnVWSXDFg?e=7MSrSo
+* https://cloudstor.aarnet.edu.au/plus/s/W3XP1lQTKsTlUyx
 
 Publication
 -----------
