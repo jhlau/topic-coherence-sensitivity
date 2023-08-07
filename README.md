@@ -31,7 +31,7 @@ Description of columns:
 
 Processed Corpus (News and Wiki)
 ================================
-* https://cloudstor.aarnet.edu.au/plus/s/W3XP1lQTKsTlUyx
+* [2016-naacl-topic-cardinality/news_wiki.tgz](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg)
 
 Publication
 -----------
