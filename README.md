@@ -31,7 +31,7 @@ Description of columns:
 
 Processed Corpus (News and Wiki)
 ================================
-* [2016-naacl-topic-cardinality/news_wiki.tgz](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/jeyhan_lau_unimelb_edu_au/EgzpOQsDqjJIqN8Pd0DksgUBGXr6oW4NX1csPPWBjYFr-Q?e=3dqgGg)
+* [2016-naacl-topic-cardinality/news_wiki.tgz](https://mediaflux.researchsoftware.unimelb.edu.au:443/mflux/share.mfjp?_token=bh2lAdrF5D7CPkYtzsFK112828724&browser=true&filename=news_wiki.tgz)
 
 Publication
 -----------
