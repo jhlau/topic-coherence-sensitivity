@@ -31,7 +31,7 @@ Description of columns:
 
 Processed Corpus (News and Wiki)
 ================================
-* [2016-naacl-topic-cardinality/news_wiki.tgz](https://mediaflux.researchsoftware.unimelb.edu.au:443/mflux/share.mfjp?_token=bh2lAdrF5D7CPkYtzsFK112828724&browser=true&filename=news_wiki.tgz)
+* [2016-naacl-topic-cardinality/news_wiki.tgz](https://mediaflux.researchsoftware.unimelb.edu.au/mflux/data/mover/index.html?token=kg48rxcqq76v15kvwwsfj2iqkvmijugyydjrqr2jq8gseyh4ojrt1nw0rg3dq2k70l23lv5klxose7z8nrm7eccvx47plvyr9ffpidohfl040ushg9dqzmparr5vwiubtfvh8dpwipqlopyrs46otxe4ru60gg4gy772tcprpr33n3eco5ghy9j91dluboyxr3kijm8z7wvhrgr7u8tegejdqgq56n5diqdptsad) (note: you'll be prompted to download a program called "Mediaflux Data Mover" - after installing it, click the link again and open Mediaflux Data Mover and you'll be able to download the data via the program).
 
 Publication
 -----------
